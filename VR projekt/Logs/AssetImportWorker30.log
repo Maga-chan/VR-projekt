@@ -281,3 +281,103 @@ Received Import Request.
   path: Assets/#Nieważne/StarterAssets/Environment/Art/Skybox/SkyboxLiteWarm.mat
   artifactKey: Guid(aeab33f69c199e54794f516d31450ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/#Nieważne/StarterAssets/Environment/Art/Skybox/SkyboxLiteWarm.mat using Guid(aeab33f69c199e54794f516d31450ec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f633db015d677d93b41f6675ca44da4e') in 0.102849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1256.131423 seconds.
+  path: Assets/Medieval_Carts/Cart_Stand1.prefab
+  artifactKey: Guid(0b8c2c3ec5a891d4ba1aa54bebe7916c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_Carts/Cart_Stand1.prefab using Guid(0b8c2c3ec5a891d4ba1aa54bebe7916c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a020a78bfef91928febdfd5f8d0efae5') in 0.016804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.432192 seconds.
+  path: Assets/Pure Poly/PP_Birch_Tree_06.prefab
+  artifactKey: Guid(a2bd798ea40c7e341aa61ad124d95342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Birch_Tree_06.prefab using Guid(a2bd798ea40c7e341aa61ad124d95342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7511f158c0464093705dac7f59820c7f') in 0.034740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Pure Poly/PP_Meadow_07.prefab
+  artifactKey: Guid(cf22a2db10f09a34495e9f83913738c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Meadow_07.prefab using Guid(cf22a2db10f09a34495e9f83913738c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f225440d8317df7355d8b297ee161fe') in 0.063626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Pure Poly/PP_Rock_Pile_Forest_Moss_05.prefab
+  artifactKey: Guid(9a91bc2b0a89c4748a0c5b940bd461a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Rock_Pile_Forest_Moss_05.prefab using Guid(9a91bc2b0a89c4748a0c5b940bd461a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78629cc296e7edb34eeb2030208b43bd') in 0.034817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Pure Poly/PP_Rock_Pile_Forest_Moss_10.prefab
+  artifactKey: Guid(c8134dd87be4906419f13922ddc5bf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Rock_Pile_Forest_Moss_10.prefab using Guid(c8134dd87be4906419f13922ddc5bf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4760b70662a5cd9912da92a2cd49aca8') in 0.035108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Pure Poly/PP_Mushroom_Fantasy_Orange_09.prefab
+  artifactKey: Guid(0ab22827d0f3f0b40a97e9430d684283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Mushroom_Fantasy_Orange_09.prefab using Guid(0ab22827d0f3f0b40a97e9430d684283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1e413053689128449887223a3254e0') in 0.036631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Pure Poly/PP_Mushroom_Fantasy_Purple_08.prefab
+  artifactKey: Guid(d3ee913ed32937344b0587e70dc777a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Mushroom_Fantasy_Purple_08.prefab using Guid(d3ee913ed32937344b0587e70dc777a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d74de1bec56634cb30a8c628ae9c5f') in 0.035273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002078 seconds.
+  path: Assets/Pure Poly/PP_Mushroom_Fantasy_Purple_05.prefab
+  artifactKey: Guid(d354c41a99993964baca0254487708d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Mushroom_Fantasy_Purple_05.prefab using Guid(d354c41a99993964baca0254487708d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae5e82a86ae6c1ab8fc9a61fbeaefc64') in 0.024519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Pure Poly/PP_Forest_Mountain_Moss_01.prefab
+  artifactKey: Guid(512b72c73a22e904d87662ebca8eb1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Forest_Mountain_Moss_01.prefab using Guid(512b72c73a22e904d87662ebca8eb1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576986e8e84a730b5310141fc3c0eff2') in 0.019468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Pure Poly/PP_Grass_15.prefab
+  artifactKey: Guid(b8217b9c1183a5144b666d1dd63980c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Grass_15.prefab using Guid(b8217b9c1183a5144b666d1dd63980c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b03d3d8d220e091abb6e4f4e7abc004') in 0.018837 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Pure Poly/PP_Meadow_08.prefab
+  artifactKey: Guid(7baba197ce36c92439b423eabaad3737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Meadow_08.prefab using Guid(7baba197ce36c92439b423eabaad3737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8330fd933dd4f6dec8a23c25106033c') in 0.016373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Pure Poly/PP_Forest_Mountain_Moss_02.prefab
+  artifactKey: Guid(034023ff02a37fc47aab6bc6c49bf15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pure Poly/PP_Forest_Mountain_Moss_02.prefab using Guid(034023ff02a37fc47aab6bc6c49bf15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231d9d3cdd31086bec237b9181ff45e8') in 0.013990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.542853 seconds.
+  path: Assets/Poly Halloween/wall-graveyard-3m-corner.prefab
+  artifactKey: Guid(85805862c6f82c341af4aaa9ed189d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/wall-graveyard-3m-corner.prefab using Guid(85805862c6f82c341af4aaa9ed189d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9508c5bdee9f89f2fc9e3be396647a2f') in 0.060860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Poly Halloween/wall-graveyard-end 1.prefab
+  artifactKey: Guid(e2988c31f93223f45b96296589bed8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/wall-graveyard-end 1.prefab using Guid(e2988c31f93223f45b96296589bed8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa5c8281e1126c7f71204bd4aa7daa7') in 0.056405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Poly Halloween/wall-graveyard-3m.prefab
+  artifactKey: Guid(cec545ae7bcbbd64fa91a5e881fef7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/wall-graveyard-3m.prefab using Guid(cec545ae7bcbbd64fa91a5e881fef7d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009c60227ad7585cc0510a9cf074a46a') in 0.027475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Poly Halloween/wall-graveyard-pillar.prefab
+  artifactKey: Guid(0d2a77e2f136c52429667f8afd9c8201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/wall-graveyard-pillar.prefab using Guid(0d2a77e2f136c52429667f8afd9c8201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d99212bc5c7b4f5fd78052bcde70d33') in 0.024205 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
