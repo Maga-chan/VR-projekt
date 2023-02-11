@@ -1,0 +1,809 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.4f1 (cb45f9cae8b7) revision 13321721'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'pl' Physical Memory: 16304 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+F:\Unity\2021.3.4f1-x86_64\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker54
+-projectPath
+D:/Github/VR-projekt/VR projekt
+-logFile
+Logs/AssetImportWorker54.log
+-srvPort
+51567
+Successfully changed project path to: D:/Github/VR-projekt/VR projekt
+D:/Github/VR-projekt/VR projekt
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 182.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path F:/Unity/2021.3.4f1-x86_64/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/VR-projekt/VR projekt/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+    Driver:   31.0.15.2824
+Initialize mono
+Mono path[0] = 'F:/Unity/2021.3.4f1-x86_64/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/2021.3.4f1-x86_64/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'F:/Unity/2021.3.4f1-x86_64/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/2021.3.4f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009353 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 151.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.072 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1073ms)
+		BeginReloadAssembly (128ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (761ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (167ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (461ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (152ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (220ms)
+				ProcessInitializeOnLoadMethodAttributes (76ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007497 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000232C0CA8680 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAB690 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C144D030 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAB690 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C1E34020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAB690 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD0CC010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C1E70030 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD0CC010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD0E6A20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD107630 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C20EE020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C20EE020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD10F640 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BC910010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2132840 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C213EA20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C213EA20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCD1F010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD10F640 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD021820 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BC960C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCD34020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCD34020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C1175010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C213EA20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C213EA20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C1175010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C213EA20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCD70C30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C213EA20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C11BC220 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2132840 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2140A30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCD70C30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2026230 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2026230 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2026230 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Polyperfect.Universal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2026230 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2026230 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BC9A9300 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2026230 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C1F60020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C11E4830 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BC9A9300 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C1F77C30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C1F77C30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Device.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 158.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.303 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2304ms)
+		BeginReloadAssembly (199ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (36ms)
+		EndReloadAssembly (1927ms)
+			LoadAssemblies (186ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (495ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (89ms)
+			SetupLoadedEditorAssemblies (1100ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (158ms)
+				BeforeProcessingInitializeOnLoad (152ms)
+				ProcessInitializeOnLoadAttributes (719ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3862 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (181.9 KB). Loaded Objects now: 4343.
+Memory consumption went from 152.7 MB to 152.6 MB.
+Total: 30.870500 ms (FindLiveObjects: 0.523700 ms CreateObjectMapping: 0.411200 ms MarkObjects: 29.717400 ms  DeleteObjects: 0.216400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11909.436854 seconds.
+  path: Assets/CemeteryPack/Textures/Candle_Emis.tga
+  artifactKey: Guid(013431a775ee9b34faa93cf61af71b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Textures/Candle_Emis.tga using Guid(013431a775ee9b34faa93cf61af71b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde421963e05290097da1c9fb1f8753b') in 0.350692 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.668606 seconds.
+  path: Assets/cemetery halloween set/textures/floor_11.mat
+  artifactKey: Guid(71ea78aa56fd40544840810c9e5b0590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_11.mat using Guid(71ea78aa56fd40544840810c9e5b0590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3e977876930132264d44c036f4b333') in 0.120727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.591480 seconds.
+  path: Assets/cemetery halloween set/textures/floor_11.png
+  artifactKey: Guid(a2a3f5aa1919d754db7013249b67ee8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_11.png using Guid(a2a3f5aa1919d754db7013249b67ee8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbbc077b17808f889c20ff8806ab2446') in 0.035929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/cemetery halloween set/textures/floor_14.png
+  artifactKey: Guid(ab33277ab8ae7534f9b003810f244f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/textures/floor_14.png using Guid(ab33277ab8ae7534f9b003810f244f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1fd460b2838a3038b0e3185908ea771') in 0.044282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.286779 seconds.
+  path: Assets/Poly Halloween/- Textures/Universal/atlas-smoothness.png
+  artifactKey: Guid(9a199780913600a478fee95d35674271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/- Textures/Universal/atlas-smoothness.png using Guid(9a199780913600a478fee95d35674271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7633b46241a23e751f25af4982c7ec0a') in 0.041055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/FantasyWillageHouse/Textures/house_2_Normal.png
+  artifactKey: Guid(36c6df2dd0f60064aa6bd58bab3bdd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyWillageHouse/Textures/house_2_Normal.png using Guid(36c6df2dd0f60064aa6bd58bab3bdd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670238c0e7b1cf4a3753a1966922d805') in 0.038213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/FantasyWillageHouse/Textures/house_1_Diffuse.png
+  artifactKey: Guid(e34b90d91f8c2b344a3331632e8ed9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyWillageHouse/Textures/house_1_Diffuse.png using Guid(e34b90d91f8c2b344a3331632e8ed9b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6798fd011424a157a24d3db478cf45c6') in 0.059244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Stylized fantasy items/flask_a/Materials/flask_a_Textures/flask_a_low_smoothing_groups_DefaultMaterial_Roughness.png
+  artifactKey: Guid(97b044822b264f14f9cc97ebd8d207a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized fantasy items/flask_a/Materials/flask_a_Textures/flask_a_low_smoothing_groups_DefaultMaterial_Roughness.png using Guid(97b044822b264f14f9cc97ebd8d207a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe2b8fc34a05ff84c245cc2e18ca1205') in 0.032339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Medieval_Carts/Texutre/dirt_tex.PNG
+  artifactKey: Guid(01a2f538dd6703f4e9f3d18a969c7ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_Carts/Texutre/dirt_tex.PNG using Guid(01a2f538dd6703f4e9f3d18a969c7ad3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7f06849ccc58ac6182def236baeb1a') in 0.047559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Halloween_Pack/Textures/Grass_D.tga
+  artifactKey: Guid(1b3c9d8cdbd389842aa1fbc9590fb8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Textures/Grass_D.tga using Guid(1b3c9d8cdbd389842aa1fbc9590fb8b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b779455bd0bfefd40a29d9e74031c6a') in 0.071750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.785415 seconds.
+  path: Assets/Stylized fantasy items/lantern_a/Materials/lantern_a_Textures/lantern_a_low_SG_lantern_a_Roughness.png
+  artifactKey: Guid(946b1ff842958264e8f5ede4455cce46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized fantasy items/lantern_a/Materials/lantern_a_Textures/lantern_a_low_SG_lantern_a_Roughness.png using Guid(946b1ff842958264e8f5ede4455cce46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0153a14c2e5e5365fb251c1e593a221e') in 0.029028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.048031 seconds.
+  path: Assets/Halloween_Pack/Skyboxes/Textures/MoonShine/MoonShine_right.tif
+  artifactKey: Guid(dc97187fca1dcaf4e84e8b5f414a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Skyboxes/Textures/MoonShine/MoonShine_right.tif using Guid(dc97187fca1dcaf4e84e8b5f414a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9c09a6e8f7d6ac6086f25cbae8b19ce') in 0.039727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Bench_MS.png
+  artifactKey: Guid(90d4b4f80fb890f47ae6d03cf13ea43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Bench_MS.png using Guid(90d4b4f80fb890f47ae6d03cf13ea43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cea3f837058e8ac47f3552a1ba276d5') in 0.044161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Stylized fantasy items/sword_a/Materials/sword_a_Textures/sword_a_low_DefaultMaterial_Emissive.png
+  artifactKey: Guid(7422be6f61375644687b4c48662c4a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized fantasy items/sword_a/Materials/sword_a_Textures/sword_a_low_DefaultMaterial_Emissive.png using Guid(7422be6f61375644687b4c48662c4a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3acab7610585987b7bd6060913a6adf3') in 0.034962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Signs_MS.png
+  artifactKey: Guid(a03f8bea961e3ce4b8087472df2aa2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Signs_MS.png using Guid(a03f8bea961e3ce4b8087472df2aa2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ffa9ea7431bf015f4e9b966570bb22') in 0.033012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Witchs_house/Materials/Witchs house_n.png
+  artifactKey: Guid(e481198fe832eb944afe718ebc0c5a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/Materials/Witchs house_n.png using Guid(e481198fe832eb944afe718ebc0c5a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70462e82fe677f3f6a3897631c8f37ff') in 0.051138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Fence_Albedo.png
+  artifactKey: Guid(e62cadad1c8f63641afb26e2f7a4a42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Fence_Albedo.png using Guid(e62cadad1c8f63641afb26e2f7a4a42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3e0326161dfd67bb66a358116530b2') in 0.034011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Poly Halloween/- Textures/Universal/universal-mask-map.tif
+  artifactKey: Guid(5484b2c0e3fe5ca4d98cc56a3eeba800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/- Textures/Universal/universal-mask-map.tif using Guid(5484b2c0e3fe5ca4d98cc56a3eeba800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3487505660be9d9636a6bd08d0e19bb0') in 0.029066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Box_MS.png
+  artifactKey: Guid(c5153fdc29a8f19439272ea6217701af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Box_MS.png using Guid(c5153fdc29a8f19439272ea6217701af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eadcb52f16b4ce6924b624239da268e') in 0.032184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Plaform_N.png
+  artifactKey: Guid(28f985e60a87d2e4d84fb4d8f26d726f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Plaform_N.png using Guid(28f985e60a87d2e4d84fb4d8f26d726f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e3d60cc454ed6445556ac41ac9a646') in 0.031408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001637 seconds.
+  path: Assets/FantasyWillageHouse/Textures/props_Diffuse.png
+  artifactKey: Guid(d5433640996267141a41120f52624ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyWillageHouse/Textures/props_Diffuse.png using Guid(d5433640996267141a41120f52624ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859e727ad9a6288232ce8b8bcf7d61d8') in 0.034055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Campfire_MS.png
+  artifactKey: Guid(a24ce3f255b6bba4f94de202a1598ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Campfire_MS.png using Guid(a24ce3f255b6bba4f94de202a1598ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c77c51a15b414195e70c2b05e8e97ff') in 0.029605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Halloween_Pack/DemoScene/FREE_Cartoon_Halloween_Pack/ReflectionProbe-0.exr
+  artifactKey: Guid(77c6f043059e1f545808c977f6afb9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/DemoScene/FREE_Cartoon_Halloween_Pack/ReflectionProbe-0.exr using Guid(77c6f043059e1f545808c977f6afb9d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935533cea1f919ad7fa9b93ebc9c55d3') in 0.038303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.149260 seconds.
+  path: Assets/Witchs_house/Materials/No Name.mat
+  artifactKey: Guid(8831ec43dfc8a3f44b841afd477692f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/Materials/No Name.mat using Guid(8831ec43dfc8a3f44b841afd477692f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ad31708b40b169f215c865b0febf3c') in 0.058311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Stylized fantasy items/sword_a/Materials/sword_a.mat
+  artifactKey: Guid(5b96bc94f4c394e27ce9f8a4cb26592d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized fantasy items/sword_a/Materials/sword_a.mat using Guid(5b96bc94f4c394e27ce9f8a4cb26592d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd703c8ccfc81b7953a464fa28e0c9536') in 0.066529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/FantasyWillageHouse/Models/Vegetables.fbx
+  artifactKey: Guid(87b354a27f6ece94c853b0d2f0e648e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyWillageHouse/Models/Vegetables.fbx using Guid(87b354a27f6ece94c853b0d2f0e648e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47a086aeecd7679af4139ea9dd5a09e9') in 0.170096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Poly Halloween/- Materials/universal-glass-night.mat
+  artifactKey: Guid(67ebe340f97be354c98766c2265fb834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/- Materials/universal-glass-night.mat using Guid(67ebe340f97be354c98766c2265fb834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99d3ae74f2cd673c61cb4e015a9b4c7') in 0.112226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/CemeteryPack/Meshes/Floor.001.fbx
+  artifactKey: Guid(7d5adea2ddcae59439110d2c1f065f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Meshes/Floor.001.fbx using Guid(7d5adea2ddcae59439110d2c1f065f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ccadfe786abd7a6e9c80701ddba292b') in 0.025118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004215 seconds.
+  path: Assets/Halloween_Pack/FBX/Floor.fbx
+  artifactKey: Guid(7c72443a79db9194a9db29491e06911b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/FBX/Floor.fbx using Guid(7c72443a79db9194a9db29491e06911b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3ac55bb0bb518c7e29ff835b83879bc') in 0.039958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/CemeteryPack/Meshes/FloorFoundation1.fbx
+  artifactKey: Guid(616ce16829b3bd84a81a0030af090e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Meshes/FloorFoundation1.fbx using Guid(616ce16829b3bd84a81a0030af090e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15992ea84ab7e30fdcfab83e24d54001') in 0.034730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004298 seconds.
+  path: Assets/CemeteryPack/Meshes/Floor.009.fbx
+  artifactKey: Guid(c5782516be388e949a6a097a51f24d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Meshes/Floor.009.fbx using Guid(c5782516be388e949a6a097a51f24d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf7e040f42e1eeecf6a3ece35d10fb4') in 0.040352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000731 seconds.
+  path: Assets/CemeteryPack/Meshes/Floor.005.fbx
+  artifactKey: Guid(6d33baa1d99af03458a70c5a3417efab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Meshes/Floor.005.fbx using Guid(6d33baa1d99af03458a70c5a3417efab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '401d5bfa827ff0a11113192214b31106') in 0.069865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/CemeteryPack/Meshes/Floor.018.fbx
+  artifactKey: Guid(296a628cb1450cc46a7108ecf8e2d992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Meshes/Floor.018.fbx using Guid(296a628cb1450cc46a7108ecf8e2d992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da7f95a3a175951cbc5d3248bbadad7') in 0.038355 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Fence Pack/LowPolyFencePack/Models/Fence Type2 Door.fbx
+  artifactKey: Guid(919734941a900d24090f2925025373f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fence Pack/LowPolyFencePack/Models/Fence Type2 Door.fbx using Guid(919734941a900d24090f2925025373f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db0cc17dcd84e3e8eb399105240e75c') in 0.104558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Fence Pack/LowPolyFencePack/Models/Fence Type2 03.dae
+  artifactKey: Guid(d48bf2190ea9990478b126e5e2540a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fence Pack/LowPolyFencePack/Models/Fence Type2 03.dae using Guid(d48bf2190ea9990478b126e5e2540a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f504e761d518040804c0c36f28db6537') in 0.035997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/CemeteryPack/Meshes/Floor.014.fbx
+  artifactKey: Guid(a256a0563411d5b4da185766f0a441b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Meshes/Floor.014.fbx using Guid(a256a0563411d5b4da185766f0a441b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f6f8788c19d1810f202d7399604cc31') in 0.041587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/cemetery halloween set/dead_tree_01.prefab
+  artifactKey: Guid(9e18d1460d69de341b221e656258c7e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/dead_tree_01.prefab using Guid(9e18d1460d69de341b221e656258c7e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a78f7df21bd34b25515c3f5d9ba980') in 0.030699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/CemeteryPack/Floor10.prefab
+  artifactKey: Guid(fecf9a559bf14a44394e5a36e740e98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Floor10.prefab using Guid(fecf9a559bf14a44394e5a36e740e98f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34dece5347d52da2edb32e851c0d89ea') in 0.060318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029159 seconds.
+  path: Assets/CemeteryPack/Floor5.prefab
+  artifactKey: Guid(746858f3f7b280948a9ac883f9dacfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Floor5.prefab using Guid(746858f3f7b280948a9ac883f9dacfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fd7b1a7f4efc0fc235d52100287059') in 0.106419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/cemetery halloween set/Prefab_mobile/fence_tile_03.prefab
+  artifactKey: Guid(b7efced809eecb647824f360edb01784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/Prefab_mobile/fence_tile_03.prefab using Guid(b7efced809eecb647824f360edb01784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94be7cb03957e33d5ad582d62667ec9') in 0.017967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/cemetery halloween set/fence_tile_04.prefab
+  artifactKey: Guid(ac7fa82395434b144af5d06b06264ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/fence_tile_04.prefab using Guid(ac7fa82395434b144af5d06b06264ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0919435f052693681aee35e506a4a0') in 0.022707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Fantasy House/Mesh/Fantasy_House_6.FBX
+  artifactKey: Guid(318351b249902a44ea6748a84674a269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy House/Mesh/Fantasy_House_6.FBX using Guid(318351b249902a44ea6748a84674a269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d9b8cef15ae6ed5838268654a364c8') in 0.056394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/GraveyardProps/Materials/ParticleMist.mat
+  artifactKey: Guid(04716dbf9f6c9664bb8a66b262195909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GraveyardProps/Materials/ParticleMist.mat using Guid(04716dbf9f6c9664bb8a66b262195909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c25f2d50468e5dbd0729401ff7d419') in 0.057175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/CemeteryPack/Meshes/FloorCircle.fbx
+  artifactKey: Guid(d5329ff182ddc2f4a860dd3f469b3eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Meshes/FloorCircle.fbx using Guid(d5329ff182ddc2f4a860dd3f469b3eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e872e54695289b96f2a68f1d6fd4c8') in 0.024043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/CemeteryPack/Floor15.prefab
+  artifactKey: Guid(3a4a8fe559c15af4cb0c2ee4014ddff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Floor15.prefab using Guid(3a4a8fe559c15af4cb0c2ee4014ddff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff5e27cdcc4a5339d0a58cf95481721a') in 0.021764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/cemetery halloween set/dead_tree_06.prefab
+  artifactKey: Guid(94950aa7f0f9d274690502dd49b95930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/dead_tree_06.prefab using Guid(94950aa7f0f9d274690502dd49b95930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a7508a37ec4259165da45d64666d9a') in 0.028146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/cemetery halloween set/dead_tree_03.prefab
+  artifactKey: Guid(baa878f50f65b4f48ac29f443ea4111e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/dead_tree_03.prefab using Guid(baa878f50f65b4f48ac29f443ea4111e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155530e604c00d39147e65e240dc1890') in 0.030203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/CemeteryPack/Floor11.prefab
+  artifactKey: Guid(8578f58d2c6eff84eac4b105a1a1fd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CemeteryPack/Floor11.prefab using Guid(8578f58d2c6eff84eac4b105a1a1fd33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9657e4675fd3e0cf56ee3cfe2ed35b4e') in 0.040098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.760360 seconds.
+  path: Assets/cemetery halloween set/bush_03.prefab
+  artifactKey: Guid(37898355f3308664e8a88f210fe2ca29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/bush_03.prefab using Guid(37898355f3308664e8a88f210fe2ca29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651913b4467439b16533b72283fb4bfb') in 0.026678 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/cemetery halloween set/rock_03.prefab
+  artifactKey: Guid(e12f27c8f3e68d24fac80901f55a8e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/rock_03.prefab using Guid(e12f27c8f3e68d24fac80901f55a8e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8806259d3dcf07831d195e249f3b2b82') in 0.031852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/cemetery halloween set/pumpkin_02.prefab
+  artifactKey: Guid(a13886ca046b2a84897aa1abe21a85d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/pumpkin_02.prefab using Guid(a13886ca046b2a84897aa1abe21a85d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2468a02cfead2bc465f14cb6e96432') in 0.027143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/cemetery halloween set/skull_07.prefab
+  artifactKey: Guid(f3ad0a7cee620e04da5d69d47d3ce8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/skull_07.prefab using Guid(f3ad0a7cee620e04da5d69d47d3ce8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df96b76165032067c24d336ba2555bb') in 0.034180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/cemetery halloween set/hang_pumpkin_04.prefab
+  artifactKey: Guid(17f938bd0b741b648bc90b68ab21d41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/hang_pumpkin_04.prefab using Guid(17f938bd0b741b648bc90b68ab21d41a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57170cd6fc2f474cd8819fe57221a922') in 0.031868 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/cemetery halloween set/pumpkin_10.prefab
+  artifactKey: Guid(b7e3c0995d2fc2240958056a380ce1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/pumpkin_10.prefab using Guid(b7e3c0995d2fc2240958056a380ce1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7923e514e6824c3e01887b6c1e5b4059') in 0.051020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/cemetery halloween set/rock_06.prefab
+  artifactKey: Guid(0c5baa64d86d0a04cb1e700118ec2e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/rock_06.prefab using Guid(0c5baa64d86d0a04cb1e700118ec2e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f48303db1fe0d93c1bb8052d3572cb9') in 0.038072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003802 seconds.
+  path: Assets/cemetery halloween set/skull_03.prefab
+  artifactKey: Guid(43d344359843f7b4fa1dd5731984d3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/cemetery halloween set/skull_03.prefab using Guid(43d344359843f7b4fa1dd5731984d3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dda977f78e8c7b45f8363ddf8afc590') in 0.033251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.054337 seconds.
+  path: Assets/Stylized fantasy items/lantern_a/Materials/lantern_a_Textures/lantern_a_low_SG_lantern_a_Emissive.png
+  artifactKey: Guid(97660ed09a7369c49b0bad0da073c2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized fantasy items/lantern_a/Materials/lantern_a_Textures/lantern_a_low_SG_lantern_a_Emissive.png using Guid(97660ed09a7369c49b0bad0da073c2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e5ec720385549dfb244e2187019ed1') in 0.050069 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Skull Platform/_source/Textures/Platform_Skull_A.tga
+  artifactKey: Guid(e18538a7b62e0894bb756091221954b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skull Platform/_source/Textures/Platform_Skull_A.tga using Guid(e18538a7b62e0894bb756091221954b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8118f78c62650e37badb31a77696553d') in 0.035449 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Halloween_Pack/DemoScene/FREE_Cartoon_Halloween_Pack/Lightmap-0_comp_dir.exr
+  artifactKey: Guid(3d12f1e24a9f95a43889a6fde7cc8a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/DemoScene/FREE_Cartoon_Halloween_Pack/Lightmap-0_comp_dir.exr using Guid(3d12f1e24a9f95a43889a6fde7cc8a11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c660ab2e5aa7d84191a4b0095682150') in 0.046393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000575 seconds.
+  path: Assets/Halloween_Pack/Skyboxes/Textures/MoonShine/MoonShine_front.tif
+  artifactKey: Guid(5dbdf7dfcf86afa418926ee28fab2b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Skyboxes/Textures/MoonShine/MoonShine_front.tif using Guid(5dbdf7dfcf86afa418926ee28fab2b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e4549a682b976029729dd427d8b8d8') in 0.083183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.755568 seconds.
+  path: Assets/Poly Halloween/- Textures/Nature/rock-disp.png
+  artifactKey: Guid(a5c65a2ac300f064daa45a296a907880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/- Textures/Nature/rock-disp.png using Guid(a5c65a2ac300f064daa45a296a907880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32d2545134e6f9d4f24bb3032977ff1') in 0.097731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.591416 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Box_N.png
+  artifactKey: Guid(d1f3b4cc7dc9a61488505e1ac3f41cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Box_N.png using Guid(d1f3b4cc7dc9a61488505e1ac3f41cad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef9bb38b86d2974520b42e6ded806c4') in 0.025216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Stool_MS.png
+  artifactKey: Guid(f7370e233c7b16140a988831c50fb038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Stool_MS.png using Guid(f7370e233c7b16140a988831c50fb038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f538797921daaf04e0387eacd9d8ff') in 0.050765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Witchs_house/Materials/whitchs_objects_n.png
+  artifactKey: Guid(c0e66aa4cfafcf34080f8667df0e460a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/Materials/whitchs_objects_n.png using Guid(c0e66aa4cfafcf34080f8667df0e460a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa40080d617682d97ee2e357fa5ca90') in 0.015574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Poly Halloween/- Textures/Universal/universal-mask-map.tif
+  artifactKey: Guid(5484b2c0e3fe5ca4d98cc56a3eeba800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/- Textures/Universal/universal-mask-map.tif using Guid(5484b2c0e3fe5ca4d98cc56a3eeba800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78452b32ade187a166aba6df37a65b18') in 0.027809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Plaform_N.png
+  artifactKey: Guid(28f985e60a87d2e4d84fb4d8f26d726f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Plaform_N.png using Guid(28f985e60a87d2e4d84fb4d8f26d726f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91b985452d9fde228db534c69e9dafe2') in 0.017062 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Campfire_MS.png
+  artifactKey: Guid(a24ce3f255b6bba4f94de202a1598ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized_Fantasy/Stylized_Fantasy/Props_Sample/Textures/T_Campfire_MS.png using Guid(a24ce3f255b6bba4f94de202a1598ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25e13b23cf768d5ebdc9aa1462d321d') in 0.033448 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006512 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000232C7995C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7995C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C4F3A020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCBE87B0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C6D4A010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCBE87B0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C4F3A020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCBE87B0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2239070 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2239070 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BD135EA0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCD1EE50 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCF63010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2239070 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C6D70010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C07962D0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCF63010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2239070 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C4CCF010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2239070 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0C72800 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C236F010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7A9C0B0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAF410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAF410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C53B0080 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAF410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C6DF4020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAF410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BC8DCFD0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C0CAF410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2391010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Polyperfect.Universal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C7CC4C20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BC7CB010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C2791420 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C6DF4020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C53ECCA0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C6DF4020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232BCBE87B0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000232C53ECCA0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Device.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.061 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3063ms)
+		BeginReloadAssembly (410ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (86ms)
+		EndReloadAssembly (2423ms)
+			LoadAssemblies (267ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (603ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (89ms)
+			SetupLoadedEditorAssemblies (1403ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (1091ms)
+				ProcessInitializeOnLoadMethodAttributes (126ms)
+				AfterProcessingInitializeOnLoad (32ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3854 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (149.5 KB). Loaded Objects now: 4412.
+Memory consumption went from 170.3 MB to 170.1 MB.
+Total: 7.011900 ms (FindLiveObjects: 0.451000 ms CreateObjectMapping: 0.416200 ms MarkObjects: 6.018200 ms  DeleteObjects: 0.125100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
