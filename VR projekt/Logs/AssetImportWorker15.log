@@ -515,3 +515,217 @@ Received Import Request.
   path: Assets/Halloween_Pack/Lamp_01 1.prefab
   artifactKey: Guid(4ed08f30ae29b264baa19639329ae393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Halloween_Pack/Lamp_01 1.prefab using Guid(4ed08f30ae29b264baa19639329ae393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28065907470e4ebc0093923059334775') in 0.009466 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006191 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001744CF98420 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744CF98420 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744AF94020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017447B3A010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017447A59020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017447B3A010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744AF94020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744CB87070 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744399C6E0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017448FF4010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017448D60010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017448844020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744929A020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744399C6E0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017449476010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744AFAEA30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744AFAEA30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744AFAEA30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744929A020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744399C6E0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000174431A9010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744399C6E0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C486030 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744399C6E0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744B917040 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744CAC5020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017443B63DE0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017448FC1E70 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744D26D020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017443AE0030 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Polyperfect.Universal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744B433010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017443B63DE0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744DBC8010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744C4C2C40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001744CAF8830 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017447B3A010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000017443B6A7F0 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Device.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.602 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1603ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (52ms)
+		EndReloadAssembly (1335ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (308ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (817ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (18ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (634ms)
+				ProcessInitializeOnLoadMethodAttributes (58ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3854 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (149.2 KB). Loaded Objects now: 4364.
+Memory consumption went from 156.9 MB to 156.7 MB.
+Total: 7.676000 ms (FindLiveObjects: 0.359600 ms CreateObjectMapping: 0.292400 ms MarkObjects: 6.891200 ms  DeleteObjects: 0.130700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 501.404390 seconds.
+  path: Assets/Halloween_Pack/Cauldron_01.prefab
+  artifactKey: Guid(1795059418cbe984a9f659ea409db85a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Cauldron_01.prefab using Guid(1795059418cbe984a9f659ea409db85a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e37fed09cbb7125320eefbe99b03ea51') in 0.399818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Halloween_Pack/WitchBroom_01.prefab
+  artifactKey: Guid(8ace1a40dd5b7734282c06470dee5be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/WitchBroom_01.prefab using Guid(8ace1a40dd5b7734282c06470dee5be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '773a0c565a2c892ddb458ec83fb61176') in 0.028465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Halloween_Pack/Tombstone_02.prefab
+  artifactKey: Guid(edd46fc5182e0d44c98fa6c5305dabb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Tombstone_02.prefab using Guid(edd46fc5182e0d44c98fa6c5305dabb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff20a7e4241ce3b2907237e8ceb5fe3') in 0.020011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Halloween_Pack/Pumpkin_02.prefab
+  artifactKey: Guid(1bc636ff02c622f439cf73b4f0aa9cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Pumpkin_02.prefab using Guid(1bc636ff02c622f439cf73b4f0aa9cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca1e99c1f80c3d673fe3572f3bb2eab') in 0.034206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Halloween_Pack/Tombstone_01.prefab
+  artifactKey: Guid(6e131b51e1e3a994692dad30cc8065ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Tombstone_01.prefab using Guid(6e131b51e1e3a994692dad30cc8065ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29c86b486b97044643ebb0b2b3d850b8') in 0.036148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Halloween_Pack/Lamp_02.prefab
+  artifactKey: Guid(d7c4a1eaebbfe2647a4f25b1adde5211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Lamp_02.prefab using Guid(d7c4a1eaebbfe2647a4f25b1adde5211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81fe98dec4de7129d3737c42440b7f97') in 0.038192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Halloween_Pack/Lamp_03.prefab
+  artifactKey: Guid(6691b02975f55b1479597e6ac2f07bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Lamp_03.prefab using Guid(6691b02975f55b1479597e6ac2f07bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00466efa69a3e68ac26ba6f9b8370df5') in 0.026018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Halloween_Pack/Lamp_01 1.prefab
+  artifactKey: Guid(4ed08f30ae29b264baa19639329ae393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Lamp_01 1.prefab using Guid(4ed08f30ae29b264baa19639329ae393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86b8d4925cc21e81479dbc56a90885b5') in 0.024547 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Halloween_Pack/Pumpkin_01.prefab
+  artifactKey: Guid(44fe268b4fc78844a9bc14a96a4d088d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Pumpkin_01.prefab using Guid(44fe268b4fc78844a9bc14a96a4d088d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b368dd3104e9ab62e2346a8d25243353') in 0.023661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Halloween_Pack/Fence.prefab
+  artifactKey: Guid(bb44ef16b180b6941bbe4caf411f6249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Halloween_Pack/Fence.prefab using Guid(bb44ef16b180b6941bbe4caf411f6249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cccd2e10b73595300cd7562bbc7422e') in 0.031589 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
