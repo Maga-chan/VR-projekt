@@ -251,3 +251,61 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 13484.008571 seconds.
+  path: Assets/Witchs_house/axe.prefab
+  artifactKey: Guid(a966a24842bb4d84783e345d8ccccdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/axe.prefab using Guid(a966a24842bb4d84783e345d8ccccdae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9613a949608eeae45639a59e68fdd459') in 0.317089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Witchs_house/frewood.prefab
+  artifactKey: Guid(1fabff429656a5947b5c10c58e5d68f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/frewood.prefab using Guid(1fabff429656a5947b5c10c58e5d68f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f09f1359872a628f824bdf8390275a') in 0.029414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Witchs_house/well.prefab
+  artifactKey: Guid(196e176e4da73bf449dba8cd3bb4a986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/well.prefab using Guid(196e176e4da73bf449dba8cd3bb4a986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59a1c9bc2aefdbabf5b42c0fffc02417') in 0.029075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Witchs_house/Witchs_house.prefab
+  artifactKey: Guid(b8cb952614600b544b502cdcb6cd29c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/Witchs_house.prefab using Guid(b8cb952614600b544b502cdcb6cd29c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd01d6b236bb5ac63d0e0bdf436d9e016') in 0.028889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Witchs_house/table.prefab
+  artifactKey: Guid(16ecce9cc728dbf4284b95589f19b796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/table.prefab using Guid(16ecce9cc728dbf4284b95589f19b796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6790bc19ff981d6e695c02e03354ce13') in 0.027647 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Witchs_house/Broom.prefab
+  artifactKey: Guid(57b30364b5b0f4c4692a46782c14d2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/Broom.prefab using Guid(57b30364b5b0f4c4692a46782c14d2bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7bfab374a8f97442b023ad337c4b6f6') in 0.022250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/Witchs_house/vessel_1.prefab
+  artifactKey: Guid(6410c48c3cbac294bb361556292ee964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/vessel_1.prefab using Guid(6410c48c3cbac294bb361556292ee964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7609d19918f4d262d3b5f97bf73b889e') in 0.027102 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Witchs_house/Pointer.prefab
+  artifactKey: Guid(58de58a8ad0360e4a8aa08535edf42d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/Pointer.prefab using Guid(58de58a8ad0360e4a8aa08535edf42d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73ec23a849e575932b14f2e45cc013e') in 0.025661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Witchs_house/vessel_2.prefab
+  artifactKey: Guid(e2abddf6f84ba3c44bb9cb6a368e288e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Witchs_house/vessel_2.prefab using Guid(e2abddf6f84ba3c44bb9cb6a368e288e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae53ec5c189d6a291f7662942d357f0') in 0.019143 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
