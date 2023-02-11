@@ -1,0 +1,383 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.4f1 (cb45f9cae8b7) revision 13321721'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'pl' Physical Memory: 16304 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+F:\Unity\2021.3.4f1-x86_64\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+D:/Github/VR-projekt/VR projekt
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+51567
+Successfully changed project path to: D:/Github/VR-projekt/VR projekt
+D:/Github/VR-projekt/VR projekt
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 268.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
+[Subsystems] Discovering subsystems at path F:/Unity/2021.3.4f1-x86_64/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/VR-projekt/VR projekt/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   NVIDIA
+    VRAM:     3949 MB
+    Driver:   31.0.15.2824
+Initialize mono
+Mono path[0] = 'F:/Unity/2021.3.4f1-x86_64/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity/2021.3.4f1-x86_64/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'F:/Unity/2021.3.4f1-x86_64/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity/2021.3.4f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.016931 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 164.15 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.266 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1267ms)
+		BeginReloadAssembly (165ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (813ms)
+			LoadAssemblies (159ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (171ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (498ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (164ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (235ms)
+				ProcessInitializeOnLoadMethodAttributes (82ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008835 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000020DB758B410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB758B410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6E68010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6E68010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6E9E820 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6EA5030 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Telemetry.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6152010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6EAAC40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6275020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6275020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6182030 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB62CD010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB61C4C50 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6275020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB1A20500 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6197440 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Networking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB215A410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB215A410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB61C4C50 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB7111E30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB63B6010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB1A35510 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6F46030 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB1A35510 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB650A010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB215A410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB215A410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB650A010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Core.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB215A410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB1A35510 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB215A410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Configuration.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6FE9020 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB631DC20 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB215A410 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6551220 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6EAAC40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6EAAC40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6EAAC40 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Polyperfect.Universal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6EAD050 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Scheduler.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6EAD050 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Environments.Internal.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB5DE8010 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6551220 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Settings.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6551220 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6551220 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Threading.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6551220 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6557C30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.VisualScripting.State.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000020DB6557C30 doesn't match image D:\Github\VR-projekt\VR projekt\Library\ScriptAssemblies\Unity.Services.Core.Device.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Github\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 211.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.964 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2965ms)
+		BeginReloadAssembly (281ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (2456ms)
+			LoadAssemblies (218ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (603ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (148ms)
+			SetupLoadedEditorAssemblies (1469ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (212ms)
+				BeforeProcessingInitializeOnLoad (200ms)
+				ProcessInitializeOnLoadAttributes (975ms)
+				ProcessInitializeOnLoadMethodAttributes (57ms)
+				AfterProcessingInitializeOnLoad (15ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3862 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 44 unused Assets / (181.8 KB). Loaded Objects now: 4343.
+Memory consumption went from 152.5 MB to 152.3 MB.
+Total: 6.880900 ms (FindLiveObjects: 0.382600 ms CreateObjectMapping: 0.292600 ms MarkObjects: 6.007300 ms  DeleteObjects: 0.195800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6949.843047 seconds.
+  path: Assets/SimpleNaturePack/Bush_01.prefab
+  artifactKey: Guid(3cdafb3c2f54d434894928d72d282874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimpleNaturePack/Bush_01.prefab using Guid(3cdafb3c2f54d434894928d72d282874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42f494b35686f4fc3bdfbac17f31338e') in 0.348740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.561998 seconds.
+  path: Assets/Skull Platform/Collider_02.prefab
+  artifactKey: Guid(a0799cb6c7c84114ba7e87a10c235ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skull Platform/Collider_02.prefab using Guid(a0799cb6c7c84114ba7e87a10c235ed9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66d9b269f4d7eff6690a19625a1af94') in 0.024731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.888046 seconds.
+  path: Assets/Poly Halloween/book-evil.prefab
+  artifactKey: Guid(1885c34483df2264dbe998d6edbb1d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/book-evil.prefab using Guid(1885c34483df2264dbe998d6edbb1d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9d8980eaf2cef319367d0480d3dbd5f') in 0.594680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Poly Halloween/candle-stick-c-unlit.prefab
+  artifactKey: Guid(4391509658c90cc418d974050830663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/candle-stick-c-unlit.prefab using Guid(4391509658c90cc418d974050830663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c9eb0393c695c9b4ef7b065de6540a') in 0.063882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Poly Halloween/gravestone-old-classic-broken.prefab
+  artifactKey: Guid(e54b5da67e1b90f4e91949ca516a50ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/gravestone-old-classic-broken.prefab using Guid(e54b5da67e1b90f4e91949ca516a50ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91e15b40fb51bdf448f13d1a6011d4a4') in 0.057505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Poly Halloween/lollipop-flat-b.prefab
+  artifactKey: Guid(b5926654dfa9b1542863022636efddcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/lollipop-flat-b.prefab using Guid(b5926654dfa9b1542863022636efddcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '455ef36e73ea905ad8a1927d383f6e08') in 0.042152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Poly Halloween/wall-graveyard-1m-corner.prefab
+  artifactKey: Guid(8032b61f51e3ff342ad0e9db0738f8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/wall-graveyard-1m-corner.prefab using Guid(8032b61f51e3ff342ad0e9db0738f8be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67166e271ce372f88a15b2d72d33285d') in 0.038883 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001750 seconds.
+  path: Assets/Poly Halloween/candy-stick.prefab
+  artifactKey: Guid(7af4f0a4609974949a9a0ee588dd2f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/candy-stick.prefab using Guid(7af4f0a4609974949a9a0ee588dd2f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b194e1accb905e85a6b524d5c023acd') in 0.044409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Poly Halloween/candle-stick-a-lit.prefab
+  artifactKey: Guid(f07f0fce7694d274fb027cef0a819442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/candle-stick-a-lit.prefab using Guid(f07f0fce7694d274fb027cef0a819442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaef1f041892efe2d5905f7e3f5cf8e6') in 0.061510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000810 seconds.
+  path: Assets/Poly Halloween/gibbet.prefab
+  artifactKey: Guid(9166965b178875f48988f6fc3e2b3ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/gibbet.prefab using Guid(9166965b178875f48988f6fc3e2b3ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee2ec984560848609f94cf80dcdefa0a') in 0.041174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Poly Halloween/coffin-new.prefab
+  artifactKey: Guid(213d2b56253be4d4cbfb202ddb822757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/coffin-new.prefab using Guid(213d2b56253be4d4cbfb202ddb822757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b5cf5997a82901ded1200874bcfb48') in 0.051236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002010 seconds.
+  path: Assets/Poly Halloween/pumpkin-carved-lit-b.prefab
+  artifactKey: Guid(32a07afdb9244484ea69e3551e9cbd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/pumpkin-carved-lit-b.prefab using Guid(32a07afdb9244484ea69e3551e9cbd4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd39e4e1372cc219920b3c2198ba59d1') in 0.045694 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Poly Halloween/pumpkin-a.prefab
+  artifactKey: Guid(36694657a5f6ed44ca298dd8501b1122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Poly Halloween/pumpkin-a.prefab using Guid(36694657a5f6ed44ca298dd8501b1122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2609ce3c051b15702478904491190c3a') in 0.049285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.251334 seconds.
+  path: Assets/GraveyardProps/CoffinTexture_2.prefab
+  artifactKey: Guid(63e1976b906dbf24b9ae9d9335ef99a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GraveyardProps/CoffinTexture_2.prefab using Guid(63e1976b906dbf24b9ae9d9335ef99a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13f89be7f8dd0c7f5ef7d3151c3bda69') in 0.508577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/GraveyardProps/TombstoneType1_Plain_2.prefab
+  artifactKey: Guid(1a603937f690f1446b417f6379ed13e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GraveyardProps/TombstoneType1_Plain_2.prefab using Guid(1a603937f690f1446b417f6379ed13e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5944df1cfad674cc957d0a5306f0dcf') in 0.050245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009919 seconds.
+  path: Assets/GraveyardProps/GraveType2_2.prefab
+  artifactKey: Guid(5a03ad7c3eaffe84f9fd4b72361a3be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GraveyardProps/GraveType2_2.prefab using Guid(5a03ad7c3eaffe84f9fd4b72361a3be2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9973be16ca6cc128f8ebe13ecb13b3f8') in 0.041791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Fence Pack/Fence Type2 02.prefab
+  artifactKey: Guid(c107d6218da3747479b38075e3042255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fence Pack/Fence Type2 02.prefab using Guid(c107d6218da3747479b38075e3042255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3eb7b98ca8210abbb4018a55747cba') in 0.029634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Fence Pack/Fence Type2 03.prefab
+  artifactKey: Guid(ab5e0beb1c36778479983f28b65d97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fence Pack/Fence Type2 03.prefab using Guid(ab5e0beb1c36778479983f28b65d97dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956d6e3671215fc5a6c4cea4f365bfbe') in 0.028205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/GraveyardProps/GraveType6_Damaged_2.prefab
+  artifactKey: Guid(f9d5c022e8d8aad459867550d3734317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GraveyardProps/GraveType6_Damaged_2.prefab using Guid(f9d5c022e8d8aad459867550d3734317) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c70c17a28535704812a1e6d0062fc52') in 0.025725 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Fence Pack/Fence Type4 Small.prefab
+  artifactKey: Guid(da8e893168526164591f81d60c0e06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fence Pack/Fence Type4 Small.prefab using Guid(da8e893168526164591f81d60c0e06b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b6647dd43656158860a12e1a37c2fc') in 0.029221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Assets/Fence Pack/Fence Type5 Small.prefab
+  artifactKey: Guid(a14aa485a8d4afa46a5e7e72b745ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fence Pack/Fence Type5 Small.prefab using Guid(a14aa485a8d4afa46a5e7e72b745ad92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35834fdd48fc95c6e74cb83aa9d4dd3e') in 0.021546 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
