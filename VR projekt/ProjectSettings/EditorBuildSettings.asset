@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/#Niewa\u017Cne/Scenes/Scena.unity"
+    guid: 4d6d4f78032ef6b46bfeb14aeb3e3fa7
   m_configObjects: {}
