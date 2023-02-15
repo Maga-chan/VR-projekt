@@ -15,7 +15,7 @@ C:/Users/Justyna/Documents/GitHub/VR-projekt/VR projekt
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-60223
+54544
 Successfully changed project path to: C:/Users/Justyna/Documents/GitHub/VR-projekt/VR projekt
 C:/Users/Justyna/Documents/GitHub/VR-projekt/VR projekt
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/Justyna/Documents/GitHub/VR-projekt/VR projekt
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 144.93 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 149.14 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.4f1 (cb45f9cae8b7)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.3.4f1/Editor/Data/Resources/UnitySubsystems
@@ -63,76 +63,76 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.3.4f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity 2021.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56688
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.009262 seconds.
+Registered in 0.012757 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 141.15 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 134.48 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.906 seconds
+- Completed reload, in  0.842 seconds
 Domain Reload Profiling:
-	ReloadAssembly (907ms)
-		BeginReloadAssembly (108ms)
+	ReloadAssembly (843ms)
+		BeginReloadAssembly (115ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (637ms)
-			LoadAssemblies (102ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (553ms)
+			LoadAssemblies (107ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (142ms)
+			SetupTypeCache (123ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (37ms)
-			SetupLoadedEditorAssemblies (387ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (339ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (10ms)
+				InitializePlatformSupportModulesInManaged (9ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (141ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (174ms)
-				ProcessInitializeOnLoadMethodAttributes (61ms)
+				RefreshPlugins (135ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (146ms)
+				ProcessInitializeOnLoadMethodAttributes (47ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.011023 seconds.
+Registered in 0.010231 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Justyna\Documents\GitHub\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Justyna\Documents\GitHub\VR-projekt\VR projekt\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 146.41 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 129.22 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.715 seconds
+- Completed reload, in  1.559 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1716ms)
-		BeginReloadAssembly (152ms)
+	ReloadAssembly (1560ms)
+		BeginReloadAssembly (146ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (24ms)
-		EndReloadAssembly (1382ms)
-			LoadAssemblies (136ms)
+		EndReloadAssembly (1248ms)
+			LoadAssemblies (130ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (337ms)
+			SetupTypeCache (354ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (78ms)
-			SetupLoadedEditorAssemblies (785ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (681ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (146ms)
-				BeforeProcessingInitializeOnLoad (142ms)
-				ProcessInitializeOnLoadAttributes (426ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
-				AfterProcessingInitializeOnLoad (17ms)
+				RefreshPlugins (129ms)
+				BeforeProcessingInitializeOnLoad (125ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (45ms)
+				AfterProcessingInitializeOnLoad (14ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
@@ -140,12 +140,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 1.63 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.27 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3862 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 44 unused Assets / (182.0 KB). Loaded Objects now: 4345.
 Memory consumption went from 157.1 MB to 156.9 MB.
-Total: 4.672000 ms (FindLiveObjects: 0.647700 ms CreateObjectMapping: 0.142700 ms MarkObjects: 3.689400 ms  DeleteObjects: 0.190600 ms)
+Total: 4.686500 ms (FindLiveObjects: 0.560200 ms CreateObjectMapping: 0.132500 ms MarkObjects: 3.794900 ms  DeleteObjects: 0.197800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -157,36 +157,6 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 6388.895641 seconds.
-  path: Assets/Pure Poly/Meshes/PP_Mushroom_Fantasy_Orange_09.fbx
-  artifactKey: Guid(43f6c6253561ce74b9f993709176caff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pure Poly/Meshes/PP_Mushroom_Fantasy_Orange_09.fbx using Guid(43f6c6253561ce74b9f993709176caff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5537b2918371d9375bae61f607fe07eb') in 0.299832 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Pure Poly/Meshes/PP_Mushroom_Fantasy_Purple_08.fbx
-  artifactKey: Guid(6aac2ae04e9a93646918391471e1a564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pure Poly/Meshes/PP_Mushroom_Fantasy_Purple_08.fbx using Guid(6aac2ae04e9a93646918391471e1a564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f784708c2979602c7f1b8cc9dd7b5e') in 0.023638 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000044 seconds.
-  path: Assets/Pure Poly/Meshes/PP_Mushroom_Fantasy_Purple_05.fbx
-  artifactKey: Guid(7259cce9d7302d44a8f8bf53cb1bc376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pure Poly/Meshes/PP_Mushroom_Fantasy_Purple_05.fbx using Guid(7259cce9d7302d44a8f8bf53cb1bc376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00bc8d15819b6e81bc4c0c8043506456') in 0.023765 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Pure Poly/Meshes
-  artifactKey: Guid(daf6e58a4fe044f40860d20387bacd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pure Poly/Meshes using Guid(daf6e58a4fe044f40860d20387bacd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ee3b34c4969266d6b3dcbf218aa4a43') in 0.003132 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Pure Poly/Meshes/PP_Tree_10.fbx
-  artifactKey: Guid(a3ccb41ae53c6bf4bb0a5bfc470bf069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Pure Poly/Meshes/PP_Tree_10.fbx using Guid(a3ccb41ae53c6bf4bb0a5bfc470bf069) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4bfd6f4d974fe98c6007a59d6e25a37') in 0.018632 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
