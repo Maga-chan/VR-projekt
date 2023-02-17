@@ -357,6 +357,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6772632183249934667}
   - component: {fileID: 1992603962707226170}
+  - component: {fileID: 9067559886642751842}
   m_Layer: 0
   m_Name: SM_Wooden_Log_1
   m_TagString: Untagged
@@ -416,6 +417,20 @@ LODGroup:
     renderers:
     - renderer: {fileID: 2427811053129877149}
   m_Enabled: 1
+--- !u!64 &9067559886642751842
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6248438522094404593}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &8347156074009756581
 GameObject:
   m_ObjectHideFlags: 0

@@ -93,6 +93,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4215967848699864037}
   - component: {fileID: 8996010360510583956}
+  - component: {fileID: 2120497361769155059}
   m_Layer: 0
   m_Name: SM_Barrel
   m_TagString: Untagged
@@ -152,6 +153,19 @@ LODGroup:
     renderers:
     - renderer: {fileID: 3068398980983080181}
   m_Enabled: 1
+--- !u!65 &2120497361769155059
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3587663316950546783}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.87, y: 0.84, z: 0.9}
+  m_Center: {x: 0, y: 0.45, z: 0}
 --- !u!1 &3689812880349445444
 GameObject:
   m_ObjectHideFlags: 0

@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400000}
   - component: {fileID: 11100000}
+  - component: {fileID: 3933684725975157638}
   m_Layer: 0
   m_Name: lava_dead_tree_03
   m_TagString: Untagged
@@ -49,6 +50,19 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!65 &3933684725975157638
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 2.8365493, y: 6.8224626, z: 1.6223758}
+  m_Center: {x: -0.38095734, y: 2.9087675, z: 0.8240327}
 --- !u!1 &100002
 GameObject:
   m_ObjectHideFlags: 0
